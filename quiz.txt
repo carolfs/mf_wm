@@ -1,0 +1,50 @@
+What will you see on the computer screen at the first stage of each repetition?
+Two letters.
+What choice must you make after the two letters have appeared?
+To go left or right.
+Which key must you press to go left?
+The left arrow key.
+How much time do you have to make your choice at the first stage?
+2 seconds.
+What will you see on the screen if you don't make a choice at the first stage?
+The word SLOW.
+What happens if you don't make a choice at the first stage and see the word SLOW?
+The first stage restarts.
+Which key must you press to go right?
+The right arrow key.
+After you go left or right to the second stage, what will you see on the screen?
+The pink screen or the blue screen.
+If you see the letters AA and go left, which screen are you likely to go to?
+The blue screen.
+If you see the letters BA and go right, which screen are you likely to go to?
+The blue screen.
+If you see the letters BB and go right, which screen are you likely to go to?
+The pink screen.
+How likely are you to go to the blue screen after seeing the letters AB and going right?
+With 80% probability.
+If you see the letters BA and go left, which screen are you likely to go to?
+The pink screen.
+If you see the letters BB and go right, which screen are you likely to go to?
+The pink screen.
+If you see the letters AB and go left, which screen are you likely to go to?
+The pink screen.
+How likely are you to go to the blue screen after seeing the letters AA and going left?
+With 80% probability.
+Which key must you press at the pink screen to find out if you got a money reward?
+The up arrow key.
+What will you see on the screen if you got a money reward?
+A dollar sign.
+What will you see on the screen if you didn't get a money reward?
+An X.
+Which key must you press at the blue screen to find out if you got a money reward?
+The up arrow key.
+What happens after you see the dollar sign or the X on the screen?
+The next repetition starts.
+Will you always get a reward if you get to the pink screen?
+No.
+Does the probability of getting a reward change depending on which two letters appeared?
+No.
+What determines the probability of getting a reward?
+If you got to the blue or the pink screen.
+Will you always get a reward if you get to the blue screen?
+No.
